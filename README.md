@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Radioroom36
-- 👀 I’m interested in Learing new poweshell scripts to make my life easier 
+- 👀 I’m interested in Learing new poweshell scripts
 - 🌱 I’m currently learning Powershell and python
 - 💞️ I’m looking to collaborate on Powershell projects
 - 📫 Reach me on prakash.t10081996@gmail.com.au
