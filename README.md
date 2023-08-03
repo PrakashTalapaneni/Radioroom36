@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Radioroom36
-- 🌱 I’m currently learning Powershell and python
+- 👋 Hi, My name is Prakash Currently working as an IT Technical engineer.
 - 💞️ I’m looking to collaborate on Powershell projects
 - 📫 Reach me on prakash.t10081996@gmail.com.au
 <!---
