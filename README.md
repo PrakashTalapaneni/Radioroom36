@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Prakash Currently working as an IT Technical engineer.
+- 👋 Hi, My name is Prakash Currently working as a SystemsAdministrator.
 - 💞️ I’m looking to collaborate on Powershell projects
 - 📫 Reach me on prakash.t10081996@gmail.com.au
 <!---
